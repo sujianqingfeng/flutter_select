@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_select/select_item.dart';
+import 'select_item.dart';
 
 enum SelectDirection { horizontal, vertical }
 enum SelectStyle { circular, rectangle }

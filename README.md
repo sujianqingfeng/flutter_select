@@ -7,11 +7,11 @@
 ![截图](./screenshot/1.gif)
 ## 导入
 ```
-flutter_select:^1.0.0+1
+flutter_sujian_select:^1.0.1
 ```
 
 ```
-import 'package:flutter_select/flutter_select.dart';
+import 'package:flutter_sujian_select/flutter_select.dart';
 ```
 
 ##使用
